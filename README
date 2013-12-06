@@ -1,2 +1,8 @@
 cfbypass.py -h for help
 -d or --domain for the domain name that you want to resolve
+
+
+for example
+
+python cfbypass.py -d google.com
+python cfbypass.py --domain google.com
